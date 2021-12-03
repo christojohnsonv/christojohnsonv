@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @christojohnsonv
-- 👀 I’m interested in web development & cybersecurity.
-- 🌱 I’m currently learning html, css, javaScript, python.
-- 💞️ I’m looking to collaborate on open projects.
+- 🌱 I’m a python-django developer
+- 💞️ Actively looking for opportunuties
 - 📫 Reach me @ christojohnsonv@gmail.com
 
 <!---
