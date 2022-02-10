@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @christojohnsonv
-- 🌱 I’m a python-django developer
-- 💞️ Actively looking for opportunuties
+- 🌱 I’m a curious self taught developer without any cs degree.
+- 💞️ Interested in cyber security (bug bounty, penetration testing).
 - 📫 Reach me @ christojohnsonv@gmail.com
 
 <!---
