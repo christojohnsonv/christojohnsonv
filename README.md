@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @christojohnsonv,
-- 🌱 a curious self taught developer without any cs degree.
+- 🌱 a curious self taught backend developer without any cs degree.
 - 💞️ Interested in cyber security (bug bounty, penetration testing).
 - 📫 Reach me @ christojohnsonv@gmail.com
 
