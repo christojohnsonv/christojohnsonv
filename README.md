@@ -58,5 +58,3 @@ I'm currently working on Python-Django development and interested in artificial 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=christojohnsonv&icon=0&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
