@@ -50,12 +50,12 @@ I'm currently working on Python-Django development and interested in artificial 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=christojohnsonv&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=christojohnsonv&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=christojohnsonv&theme=radical&no-frame=true&no-bg=true&margin-w=4)
- -->
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=christojohnsonv&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=christojohnsonv&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=christojohnsonv&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
+ -->
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=christojohnson_)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
