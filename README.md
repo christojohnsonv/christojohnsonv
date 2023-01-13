@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Python-Django development and interested in artificial intelligence and machine learning.
+Curious back-end developer, interested in data structures and algorithms.
 
 
 ## 🌐 Socials:
