@@ -23,6 +23,8 @@ Curious back-end developer, interested in data structures and algorithms.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=christojohnsonv&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=christojohnsonv&theme=radical&hide_border=true)<br/>
 
 [![](https://visitcount.itsvg.in/api?id=christojohnsonv&icon=0&color=8)](https://visitcount.itsvg.in)
