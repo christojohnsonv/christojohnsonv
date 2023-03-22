@@ -43,14 +43,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=christojohnsonv&theme=violet-punch&border_radius=6.2&background=00000000&border=E296FF&stroke=880085&ring=880085&currStreakNum=4EC251&sideNums=880085&currStreakLabel=880085&sideLabels=880085&dates=FFD700&fire=FFD700" alt="streak-stats" />
   </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christojohnsonv&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="christojohnsonv" />
-  </br>
-  <img src="https://github-readme-stats.vercel.app/api?username=christojohnsonv&theme=synthwave&show_icons=true&locale=en" alt="christojohnsonv" />
 
 </p>
 
 
-
-
-<p align="center">
-  
-</p>
