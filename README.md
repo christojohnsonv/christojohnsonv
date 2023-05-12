@@ -4,7 +4,7 @@
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=880085&center=true&width=435&lines=Hi + I'm + Christo + Johnson." alt="Typing SVG" />
 </p>
 
-
+  
 
 ## Connect with me on:
 <p align="center">
