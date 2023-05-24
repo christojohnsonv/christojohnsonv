@@ -38,7 +38,7 @@
   <img src="https://streak-stats.demolab.com/?user=christojohnsonv&theme=violet-punch&border_radius=6.2&background=00000000&border=E296FF&stroke=880085&ring=880085&currStreakNum=4EC251&sideNums=880085&currStreakLabel=880085&sideLabels=880085&dates=FFD700&fire=FFD700" alt="streak-stats" />
   </br>
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=christojohnsonv&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="christojohnsonv" />
-  <a href="https://github.com/christojohnsonv"><img alt="Christo Johnson's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=christojohnsonv&theme=transparent&bg_color=black&color=3b77d9&line=0c3370&point=FFFFFF&hide_border=true" /></a>
+<!--   <a href="https://github.com/christojohnsonv"><img alt="Christo Johnson's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=christojohnsonv&theme=transparent&bg_color=black&color=3b77d9&line=0c3370&point=FFFFFF&hide_border=true" /></a> -->
 </p>
 
 <p align="center">
