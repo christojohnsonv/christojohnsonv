@@ -4,31 +4,6 @@
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=880085&center=true&width=435&lines=Hi + I'm + Christo + Johnson." alt="Typing SVG" />
 </p>
 
-  
-
-## Connect with me on:
-<p align="center">
-   <a href="https://medium.com/@christojohnsonv" target="_blank">
-     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" height="25" width=85>
-  </a>
-  <a href="https://instagram.com/christojohnsonv" target="_blank">
-     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="25" width=85>
-  </a>
-  <a href="https://www.linkedin.com/in/christojohnsonv" target="_blank">
-     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linked in" height="25" width=85>
-  </a>
-  <a href="https://www.facebook.com/iamchristojohnson" target="_blank">
-     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="25" width=85>
-  </a>
-  <a href="https://twitter.com/christojohnsonv" target="_blank">
-     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="25" width=85>
-  </a>
-  
-
-  
-  
- 
-
 ## GitHub Stats:
 <p align="center">
 
