@@ -1,10 +1,3 @@
-
-<p align="center">
-<!--  https://git.io/typing-svg  -->
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=880085&center=true&width=435&lines=Hi + I'm + Christo + Johnson." alt="Typing SVG" />
-</p>
-
-## GitHub Stats:
 <p align="center">
 
   <img src="https://streak-stats.demolab.com/?user=christojohnsonv&theme=violet-punch&border_radius=6.2&background=00000000&border=E296FF&stroke=880085&ring=880085&currStreakNum=4EC251&sideNums=880085&currStreakLabel=880085&sideLabels=880085&dates=FFD700&fire=FFD700" alt="streak-stats" />
