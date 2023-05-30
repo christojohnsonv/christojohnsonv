@@ -14,9 +14,6 @@
   <a href="https://instagram.com/christojohnsonv" target="_blank">
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="25" width=85>
   </a>
-  <a href="https://dev.to/christojohnsonv" target="_blank">
-     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev" height="25" width=85>
-  </a>
   <a href="https://www.linkedin.com/in/christojohnsonv" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linked in" height="25" width=85>
   </a>
