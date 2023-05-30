@@ -39,6 +39,10 @@
   </br>
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=christojohnsonv&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="christojohnsonv" />
 <!--   <a href="https://github.com/christojohnsonv"><img alt="Christo Johnson's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=christojohnsonv&theme=transparent&bg_color=black&color=3b77d9&line=0c3370&point=FFFFFF&hide_border=true" /></a> -->
+
+<a href="https://github.com/christojohnsonv">
+ <img alt="Christo Johnson's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=christojohnsonv&theme=transparent&bg_color=black&color=3b77d9&line=0c3370&point=FFFFFF&hide_border=true" width="100%">
+</a>
 </p>
 
 <p align="center">
