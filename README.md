@@ -2,9 +2,13 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=christojohnsonv&show_icons=true&theme=transparent" alt="streak-stats" />
   
-  <img src="https://streak-stats.demolab.com/?user=christojohnsonv&theme=violet-punch&border_radius=6.2&background=00000000&border=E296FF&stroke=880085&ring=880085&currStreakNum=4EC251&sideNums=880085&currStreakLabel=880085&sideLabels=880085&dates=FFD700&fire=FFD700" alt="streak-stats" />
   
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=christojohnsonv&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&&langs_count=5" alt="christojohnsonv" />
+  
+  
+  <img src="https://streak-stats.demolab.com/?user=christojohnsonv&theme=violet-punch&border_radius=6.2&background=00000000&border=E296FF&stroke=880085&ring=880085&currStreakNum=4EC251&sideNums=880085&currStreakLabel=880085&sideLabels=880085&dates=FFD700&fire=FFD700" alt="streak-stats" />
+  
+  
 
 
 <a href="https://github.com/christojohnsonv">
