@@ -9,8 +9,6 @@
 
 
 <p align="center">
-  
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=christojohnsonv&show_icons=true&layout=compact&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&&langs_count=5" alt="christojohnsonv" />
-  <br/>
-   <img src="https://visitcount.itsvg.in/api?id=christojohnsonv&icon=0&color=11" alt="profile-views">
+  <img alt="Christo Johnson's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=christojohnsonv&show_icons=true&layout=compact&theme=github_dark&langs_count=8&hide_border=false&include_all_commits=true&count_private=true&hide=Jupyter%20Notebook,Roff" height="220px" width="450px"/>
+<img alt="Christo Johnson's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=christojohnsonv&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=false" height="192px" width="450px"/>
 </p>
