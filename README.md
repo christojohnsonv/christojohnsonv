@@ -1,20 +1,22 @@
 <h1 align="center">Christo Johnson</h1>
 
 <p align="center">
-  <strong>Backend Developer</strong> · Python · Go · Distributed Systems
+  <strong>Backend Engineer</strong> · Python · Go · Distributed Systems
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
+  <a href="https://christojohnsonv.in/">Website</a>
   ·
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://www.linkedin.com/in/christojohnsonv">LinkedIn</a>
+  ·
+  <a href="mailto:christojohnson.dev@gmail.com">Email</a>
 </p>
 
 ---
 
 ### About
 
-Backend developer focused on building reliable, scalable services and understanding the systems behind them.
+Backend engineer focused on building reliable, scalable services and understanding the systems behind them.
 
 Currently focused on:
 
@@ -30,7 +32,7 @@ Currently focused on:
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,django,fastapi,postgres,redis,docker,kubernetes,terraform,aws,gcp,git,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,go,django,fastapi,postgres,redis,kafka,docker,kubernetes,terraform,aws,gcp,git,linux&theme=dark" />
 </p>
 
 ---
