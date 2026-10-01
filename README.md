@@ -52,9 +52,14 @@ Currently focused on:
 
 ---
 
-### Current Focus
+### Core Areas
 
 ```text
+Python
+ ├── Backend Engineering
+ ├── Django, DRF & FastAPI
+ └── Async Processing
+
 Go
  ├── Backend Engineering
  ├── Concurrency
